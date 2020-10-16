@@ -1,0 +1,14 @@
+# будет игнорироваться каталог tmp
+tmp/
+#будут игнорироваться файлы с суффиксом _old
+_old
+#будут игнорироваться файлы с суффиксом _backup
+_backup
+#будут игнорироваться файлы с суффиксом Thumbs.db
+Thumbs.db
+#будут игнорироваться файлы с суффиксом .DS_Store
+.DS_Store
+#будет игнорироваться файл index.html_old
+index.html_old
+#будет игнорироваться файл NeuroStartUp.png_backup
+NeuroStartUp.png_backup
